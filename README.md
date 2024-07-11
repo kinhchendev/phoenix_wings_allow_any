@@ -3,6 +3,8 @@
 
 # phoenix_wings.dart
 
+## Origin from [phoenix_wings](https://github.com/mfeckie/phoenix_wings), I modify this packages to allow send any (dynamic) payload which not supported on original packages. Other features is the same from original packages.
+
 A Phoenix Channel implementation for Dart
 
 Attempts to feature match the Javascript implementation found at [phoenix.js](https://github.com/phoenixframework/phoenix/blob/master/assets/js/phoenix.js)
