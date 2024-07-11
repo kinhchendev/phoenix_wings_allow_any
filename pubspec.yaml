@@ -1,6 +1,6 @@
 name: phoenix_wings_allow_any
 description: Phoenix Channel client for Dart
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/kinhchendev/phoenix_wings_allow_any
 
 dev_dependencies:
