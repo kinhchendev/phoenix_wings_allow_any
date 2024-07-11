@@ -1,7 +1,7 @@
 import 'dart:html';
 import 'dart:async';
 
-import 'package:phoenix_wings/src/phoenix_connection.dart';
+import 'package:phoenix_wings_allow_any/src/phoenix_connection.dart';
 
 /// PhoenixHtmlConnection handles the creation and use
 /// of the underlying websocket connection on browser platforms.
