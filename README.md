@@ -1,7 +1,6 @@
-[![Pub](https://img.shields.io/pub/v/phoenix_wings.svg?style=flat-square)](https://pub.dartlang.org/packages/phoenix_wings)
+# Package phoenix_wings_allow_any
 
-
-# phoenix_wings.dart
+## phoenix_wings.dart
 
 ## Origin from [phoenix_wings](https://github.com/mfeckie/phoenix_wings), I modify this packages to allow send any (dynamic) payload which not supported on original packages. Other features is the same from original packages.
 
